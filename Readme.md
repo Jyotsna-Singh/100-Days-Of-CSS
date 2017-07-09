@@ -8,6 +8,8 @@
 
 [003-Pyramid](#003-pyramid)
 
+[004-Loading-Icon](#004-loading-icon)
+
 ## 001-Title
 
 **Features**:  `positioning, box-shadow, linear-gradient, transform:translate/rotate`
@@ -36,3 +38,11 @@
 </p>
 
 
+## 004-Loading-Icon
+
+**Features**:  `animation-fill-mode, cubic-bezier, scss variables, z-index, animation, @keyframes, positioning, box-shadow, transform:scale`
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/004-Loading/img/loading.gif" />
+</p>
