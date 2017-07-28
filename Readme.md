@@ -10,6 +10,16 @@
 
 [004-Loading-Icon](#004-loading-icon)
 
+[005-Weekly-Report](#005-weekly-report)
+
+[006-Profile](#006-Profile)
+
+[007-Notification](#007-notification)
+
+[008-Bubble](#008-bubble)
+
+[011-Shoe-Walk](#011-shoe-walk)
+
 ## 001-Title
 
 **Features**:  `positioning, box-shadow, linear-gradient, transform:translate/rotate`
@@ -46,3 +56,45 @@
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/004-Loading/img/loading.gif" />
 </p>
+
+## 005-Weekly-Report
+
+**Features**:  `positioning, font-smoothing, vanilla css tooltip`
+
+<p align="center">
+  <br><br>
+  <img src="" />
+</p>
+
+## 006-Profile
+**Features**:  `font-smoothing, linear-gradient, transform:translate/rotate, transition, hover effects`
+
+<p align="center">
+  <br><br>
+  <img src="" />
+</p>
+
+## 007-Notification
+**Features**:  `font-smoothing, linear-gradient, transform:translate/rotate, transition, hover effects`
+
+<p align="center">
+  <br><br>
+  <img src="" />
+</p>
+
+## 008-Bubble
+**Features**:  `filter:contrast/blur, for loop, rotate animation, keyframes`
+
+<p align="center">
+  <br><br>
+  <img src="" />
+</p>
+
+## 011-Shoe-Walk
+**Features**:  `radial-gradient, animation-fill-mode, keyframes`
+
+<p align="center">
+  <br><br>
+  <img src="" />
+</p>
+
