@@ -63,7 +63,7 @@
 
 <p align="center">
   <br><br>
-  <img src="" />
+  <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/005-Weekly-Report/statistics.gif" />
 </p>
 
 ## 006-Profile
@@ -71,7 +71,7 @@
 
 <p align="center">
   <br><br>
-  <img src="" />
+  <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/006-Profile/img/profile.gif" />
 </p>
 
 ## 007-Notification
@@ -79,7 +79,7 @@
 
 <p align="center">
   <br><br>
-  <img src="" />
+  <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/007-Notification/Notification.gif" />
 </p>
 
 ## 008-Bubble
@@ -87,7 +87,7 @@
 
 <p align="center">
   <br><br>
-  <img src="" />
+  <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/008-bubble/Metaballs.gif" />
 </p>
 
 ## 011-Shoe-Walk
@@ -95,6 +95,6 @@
 
 <p align="center">
   <br><br>
-  <img src="" />
+  <img src="https://github.com/Jyotsna-Singh/100-Days-Of-CSS/blob/master/011-Shoe-Walk/Shoe.gif" />
 </p>
 
